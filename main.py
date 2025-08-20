@@ -1,2 +1,1 @@
-print("holass")
-print("chao")
+print("holi")
